@@ -147,7 +147,7 @@
   }
   .o{
     background-color: orange;
-    border: 1px solid rgb(161, 107, 7);
+    border: 1px solid white;
   }
   .navbar{
     background-color: orange !important;
@@ -156,7 +156,7 @@
     position: static !important;
   }
 }
-.t{
+.abouttimg{
       background-image: url(https://pn-paul.netlify.app/image/ourimage.jpg);
     width: 100%;
     height: 650px;
@@ -317,4 +317,84 @@
 .photo5 h4{
   font-size: 25px;
   color: whitesmoke !important;
+}
+.brandimg{
+  background-image: url(https://pn-paul.netlify.app/image/brands.jpg);
+    width: 100%;
+    height: 650px;
+    background-position: center;
+    background-size: cover;
+}
+.go {
+    line-height: 20px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    margin-top: 20px;
+    font-weight: lighter;
+    padding-bottom: 12px;
+}
+.read {
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    font-weight: lighter;
+}
+.contact{
+  font-family: unset;
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+  font-weight: lighter;
+  line-height: 1.2;
+}
+.contactinfo{
+  line-height: 20px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    font-weight: lighter;
+    padding-bottom: 2cm;
+}
+.contacth4{
+  font-family: unset;
+    font-size: 1.5rem;
+    font-weight: lighter;
+    line-height: 1.2;
+}
+.org{
+  color: orange;
+}
+.contactimg{
+  background-image: url(https://pn-paul.netlify.app/image/CONTACT-US.jpg);
+    width: 100%;
+    height: 650px;
+    background-position: center;
+    background-size: cover;
+}
+.pressimg{
+  background-image: url(https://pn-paul.netlify.app/image/press-new-1.jpg);
+    width: 100%;
+    height: 650px;
+    background-position: center;
+    background-size: cover;
+}
+.careersimg{
+  background-image: url(https://pn-paul.netlify.app/image/new-careers-1.jpg);
+    width: 100%;
+    height: 650px;
+    background-position: center;
+    background-size: cover;
+}
+.ch{
+  text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 2px;
+    font-size: 1.2cm;
+}
+.cp{
+  letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 25px;
+    font-weight: lighter;
+    font-size: 18px;
 }
